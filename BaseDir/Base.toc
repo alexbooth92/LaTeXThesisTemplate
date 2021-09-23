@@ -1,0 +1,11 @@
+\babel@toc {british}{}
+\contentsline {chapter}{List of Tables}{vi}{section*.5}%
+\contentsline {chapter}{List of Figures}{vii}{section*.7}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Section}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Sub-section}{1}{subsection.1.1.1}%
+\contentsline {subsubsection}{Sub-sub-section}{1}{section*.9}%
+\contentsline {chapter}{Acronyms}{2}{section*.10}%
+\contentsline {chapter}{Bibliography}{3}{section*.11}%
+\contentsline {chapter}{\numberline {A}Name of my Appendix}{4}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Section}{4}{section.A.1}%
